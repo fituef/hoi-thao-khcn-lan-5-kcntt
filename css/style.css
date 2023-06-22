@@ -317,6 +317,9 @@ button:hover:before {
     #h500 {
         display: none;
     }
+    .left img{
+        width:159px !important;
+    }
 }
 
 
